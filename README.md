@@ -12,7 +12,7 @@ Time spent: **7** hours spent in total
 - Fixed in version: 4.2.1
 - [x] GIF Walkthrough: 
 
-<img src='' title='imageGif' alt='imageGif' />
+<img src='https://github.com/baivabpokhrel/Week8Wordpress/blob/master/Gifs/SignIn.gif' title='imageGif' alt='imageGif' />
 
 
 - [x]Steps to recreate:
@@ -26,7 +26,7 @@ Enter "different name" as username and type "admin" as password.
 - Fixed in version: 4.6.1
 - [x] GIF Walkthrough:
 
-<img src='' title='imageGif' alt='imageGif' />
+<img src='https://github.com/baivabpokhrel/Week8Wordpress/blob/master/Gifs/Image.gif' title='imageGif' alt='imageGif' />
 
 - [x] Steps to recreate: Create a new media post and upload an image with the following filename format:
 
@@ -41,7 +41,7 @@ during the processing of shortcode tags are mishandled.
 - Fixed in version: 4.3
 - [x] GIF Walkthrough:
 
-<img src='' title='gif 1' alt='gif 1' />
+<img src='https://github.com/baivabpokhrel/Week8Wordpress/blob/master/Gifs/Alert.gif' title='gif 1' alt='gif 1' />
 
 - [x] Steps to recreate: Create a new post and place the following code in the body:
 
