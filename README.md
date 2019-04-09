@@ -15,7 +15,7 @@ Time spent: **7** hours spent in total
 <img src='https://github.com/baivabpokhrel/Week8Wordpress/blob/master/Gifs/SignIn.gif' title='imageGif' alt='imageGif' />
 
 
-- [x]Steps to recreate:
+- [x] Steps to recreate:
 Enter "admin" as username and type random password.
 Enter "different name" as username and type "admin" as password.
 
